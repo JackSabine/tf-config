@@ -2,3 +2,4 @@
 mksymlinks\.sh
 \.cache$
 \.gitmodules
+\.git
