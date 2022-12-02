@@ -1,2 +1,4 @@
 \.vimlocal
-mksymlink\.sh
+mksymlinks\.sh
+\.cache$
+\.gitmodules
