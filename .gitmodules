@@ -1,3 +1,4 @@
 [submodule "custom/rayshud"]
 	path = custom/rayshud
 	url = git@github.com:raysfire/rayshud.git
+  ignore = dirty
