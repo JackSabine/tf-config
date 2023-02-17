@@ -1,1 +1,0 @@
-autocmd FileType *.cfg set syntax=sourcecfg
