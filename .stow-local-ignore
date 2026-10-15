@@ -1,5 +1,6 @@
 \.vimlocal
 mksymlinks\.sh
+mksymlinks\.ps1
 \.cache$
 \.gitmodules
 \.git
